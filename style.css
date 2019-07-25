@@ -53,7 +53,7 @@ body {
 /*============= LANDING PAGE =============*/
 
 .home-inner {
-  background-image: url("img/logo.jpg");
+  background-image: url("logo.jpg");
   filter: blur(10px);
   -webkit-filter: blur(10px);
   transition: all 1000ms;
